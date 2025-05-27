@@ -1,5 +1,5 @@
 scm:
   enabled: true
-  owner: elastic
+  owner: v1v
   repository: opentelemetry
-  branch: main
+  branch: test/use-updatecli-automation
